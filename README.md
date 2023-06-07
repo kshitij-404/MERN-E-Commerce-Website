@@ -1,6 +1,6 @@
 # MERN E-COMMERCE WEBSITE
 
-This is a E-Commerce Website based on the MERN stack.
+This is an E-Commerce Website based on the MERN stack.
 
 # Install Dependencies
 
